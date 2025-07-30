@@ -5,6 +5,7 @@
   <a href="https://github.com/Eng-yasmine"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/yasmeen-khaled-b80269161/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:engyasmeenk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/201004473898"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
@@ -34,18 +35,21 @@
 
 ### 📌 Current Projects
 
-- 🛍️ **Laravel E-Commerce System** (Dashboard, Cart, Orders, Roles, Notifications)
-- ✍️ **Blog System** with Image Upload and Admin Panel
-- 🍽️ **Restaurant System** with Online Orders and Admin Panel
-- ✅ **To-Do List** (without any framework)
-- 🗂️ **Product Management System (PMS)** (without any framework)
+- 🛍️ **Laravel E-Commerce System** – Dashboard, Cart, Orders, Roles, Notifications
+- 🦷 **RAK Dental Clinic System** – A fully featured admin panel and clinic management system built with Laravel
+- 🧠 **New Chance Mental Health Platform** – Mental health service booking system using Laravel and secure user roles
+- 📚 **English Window** – An English course reservation platform with dynamic content and user management (Laravel)
+- ✍️ **Blog System** – With Image Upload and Admin Panel
+- 🍽️ **Restaurant Management System** – Online Ordering & Admin Panel
+- ✅ **To-Do List** – Pure PHP, no frameworks
+- 🗂️ **Product Management System (PMS)** – Without any framework
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-yasmine&show_icons=true&theme=radical" alt="Yasmin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-yasmine&show_icons=true&theme=radical" alt="Yasmeen's GitHub stats" />
 </p>
 
 ---
@@ -54,6 +58,7 @@
 
 - 📧 Email: **engyasmeenk@gmail.com**
 - 💼 LinkedIn: [Yasmeen Khaled](https://www.linkedin.com/in/yasmeen-khaled-b80269161/)
+- 💬 WhatsApp: [+201004473898](https://wa.me/201004473898)
 
 ---
 
